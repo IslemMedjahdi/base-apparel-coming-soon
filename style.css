@@ -48,6 +48,7 @@ main{
 .left .hero h1 span{
     color: hsl(0, 36%, 70%);
     font-weight: 300;
+    font-family: 'Josefin Sans',sans-serif;
 }
 .left .hero p{
     max-width: 80%;
